@@ -25,7 +25,9 @@ Libraries
 Usage
     Run the Streamlit application with the following command:
                 streamlit run app.py
-                
+Flowchart
+![image](https://github.com/user-attachments/assets/9ddf65f3-cfe4-4fc9-8b2b-4c692ccb7361)
+
 Code Explanation
 Driver Monitoring Page
     The driver monitoring page includes:
