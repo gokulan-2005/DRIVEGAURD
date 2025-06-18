@@ -1,8 +1,9 @@
-streamlit==1.45.1
-opencv-python==4.9.0.80
-numpy==1.24.4
-deepface==0.0.93
-mediapipe==0.10.14
-pygame
-twilio
-Pillow
+streamlit
+opencv-python
+numpy
+deepface
+tensorflow
+matplotlib
+playsound
+mediapipe
+cv2
