@@ -1,9 +1,7 @@
 streamlit
-opencv-python-headless==4.8.1.78
+opencv-python-headless
 numpy
 deepface
 tensorflow
-matplotlib
-playsound
 mediapipe
-cv2
+playsound
